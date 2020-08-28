@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.dropbox.com/s/3upps8snzfdvj5l/dougapple.png">
+<img align="right" width="400" height="400" src="https://github.com/douglascf12/douglascf12/blob/master/dougapple.png">
  
 # Welcome!
  
