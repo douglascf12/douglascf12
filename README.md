@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://www.dropbox.com/s/qx10k1ten2f66cv/dougapple.webp?dl=0">
+<img align="right" width="400" height="400" src="https://www.dropbox.com/home/images?preview=dougapple.png">
  
 # Welcome!
  
