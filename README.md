@@ -4,8 +4,9 @@
  
 ## I'm Douglas! Let me present a little about myself :D
  
+Developer focused in iOS :robot:
 
- 
+Lover of Technology and coding :heart:
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/douglascf12)](https://github.com/douglascf12)
