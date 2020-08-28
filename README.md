@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://avatars2.githubusercontent.com/u/28845044?s=400&u=70be8a1d2d7ac24572824ff00c6f9c6f47e6bb21&v=4">
+<img align="right" width="400" height="400" src="https://www.dropbox.com/home/images?preview=dougapple.webp">
  
 # Welcome!
  
