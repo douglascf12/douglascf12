@@ -15,7 +15,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/douglascf12/douglascf12/blob/master/dougapple.png?width=676&height=676">
+  <img align="right" alt="DougMemoji" height="150" style="border-radius:50px;" src="https://github.com/douglascf12/douglascf12/blob/master/dougmemoji.png?width=676&height=676">
 </div>
  
  ##
