@@ -1,4 +1,4 @@
-## Olá, eu sou o Douglas Cardoso, devenvolvedor iOS! 👋
+## Olá, eu sou o Douglas Cardoso, desenvolvedor iOS! 👋
 
 - 💻 Desenvolvedor iOS
 - 📚 Graduando em Análise e Desenvolvimento de Sistema no Centro Universitário Senac
