@@ -1,8 +1,8 @@
 ## Olá, eu sou o Douglas Cardoso, desenvolvedor iOS! 👋
 
 - 💻 Desenvolvedor iOS
-- 📚 Graduando em Análise e Desenvolvimento de Sistema no Centro Universitário Senac
-- 🍎 Estudante do Apple Developer Academy | Senac
+- 📚 Formado em Análise e Desenvolvimento de Sistema no Centro Universitário SENAC
+- 🍎 Alumni Apple Developer Academy | SENAC
 
 <div align="center">
   <a href="https://github.com/douglascf12">
